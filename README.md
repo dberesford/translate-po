@@ -1,4 +1,4 @@
-# translote-po
+# translate-po
 
 Uses [Google Translate](https://cloud.google.com/translate/docs) to convert a PO file into another language.
 
