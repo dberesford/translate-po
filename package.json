@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "github.com/dberesford",
+  "repository": "https://github.com/dberesford/translate-po",
+  "keywords" : ["po", "translate", "google translate", "i18n", "localization"],
   "license": "MIT",
   "preferGlobal": true,
   "dependencies": {
